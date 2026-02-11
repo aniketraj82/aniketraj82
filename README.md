@@ -1,31 +1,70 @@
 # Hi, I'm Aniket Raj 👋
-Data Analyst passionate about turning data into actionable insights. Skilled in Python, SQL, Excel, Tableau, and Power BI, I specialize in data visualization, statistical analysis, and predictive modeling.
+
+Data-driven Marketing Analytics Professional with a foundation in business growth, lead generation, and market expansion — now focused on transforming data into measurable performance insights.
+
+## 👨‍💻 About Me
+
+I started my career in marketing, contributing to brand growth and customer acquisition initiatives. While working closely with campaign performance metrics, I developed a strong interest in analytics and data-backed decision-making.
+
+I intentionally transitioned into analytics, strengthening my technical skills through hands-on projects, live campaigns, internships, and freelance work.
+
+Today, I combine marketing context with analytical depth to support performance optimization, reporting, and strategic decisions.
 
 ---
 
-## 📊 Skills
-- **Programming & Analysis:** Python (pandas, numpy, matplotlib, seaborn), SQL, Excel  
-- **Data Visualization:** Tableau, Power BI  
-- **Data Handling:** Data cleaning, transformation, exploratory data analysis  
-- **Other:** Reporting, Dashboard development, Predictive modeling  
+## 🛠 Technical Skills
+
+**Languages & Analysis**
+- SQL
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Advanced Excel
+
+**Data Visualization & BI**
+- Power BI
+- Tableau
+- Dashboard Development
+- KPI Reporting
+
+**Marketing Analytics**
+- Campaign Performance Analysis
+- Email Marketing Analytics
+- Marketing Automation Workflows
+- Funnel & Conversion Analysis
+
+**Data Processing**
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Query Optimization
+- Feature Engineering
+
+**Cloud & Big Data**
+- AWS (S3, EC2)
+- Apache Spark
+- PySpark
+
+**Version Control**
+- Git
+- GitHub
 
 ---
 
-## 💼 Projects
+## 📊 What I Focus On
 
-### Vendor Performance Analysis
-Analyzed vendor performance using Python, SQL, Excel, Tableau, and Power BI. Created dashboards highlighting trends, identifying top performers, and uncovering areas for improvement to optimize procurement and vendor management.
-
-### Hotel Booking Cancellations
-Examined hotel booking data to identify factors contributing to cancellations. Utilized Python, SQL, Excel, Tableau, and Power BI to clean, visualize, and model data, providing actionable insights to reduce cancellation rates and improve booking management.
-
----
-
-## 📫 Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/aniket-raj-50111b1b0]  
-- Email: [aniketraj2350@gmail.com]  
+- Turning raw data into actionable business insights  
+- Building structured dashboards for stakeholders  
+- Analyzing campaign performance and identifying growth opportunities  
+- Supporting data-driven marketing decisions  
 
 ---
 
-## ⚡ Fun Fact
-I love finding stories in data and turning them into dashboards that actually help people make better decisions.
+## 🎯 Current Goal
+
+Seeking opportunities in:
+- Marketing Analytics
+- Digital Marketing Analytics
+- Business Intelligence (Marketing Domain)
+- Data Analyst roles with performance focus
+
+---
+
+📩 Open to collaboration on analytics projects and data-driven marketing initiatives.
