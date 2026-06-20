@@ -1,27 +1,69 @@
-# 💫 About Me:
-## Hello 👋<br><br>I'm Aniket Raj, a Data Analytics professional with a background in business growth and a strong focus on data-driven decision-making. I combine marketing strategy with analytics to build dashboards, optimize campaign performance, and translate raw data into measurable insights.<br><br>🔭 I’m currently working on real-world marketing analytics and BI dashboard projects  <br>🤝 I’m looking to collaborate on data analysis and performance optimization projects  <br>🧠 I’m looking for help with advanced analytics and scalable data engineering practices  <br>🌱 I’m currently learning advanced SQL optimization and predictive modeling  <br>💬 Ask me about marketing analytics, dashboard building, or campaign performance tracking  <br>⚡ Fun fact: Numbers often tell stories people miss.
+# Aniket Raj
+### Junior Data Analyst | SQL | Python | Power BI | Marketing & Product Analytics
 
+I build analytics projects that turn raw business data into dashboards, insights, and recommendations. My work focuses on customer behavior, campaign ROI, pricing, retention, segmentation, A/B testing, and reporting automation.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mr.aniket_raj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/iamaniketraj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AniketR79330355) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketraj2350@gmail.com) 
+I like projects where analysis does more than produce charts: it explains what changed, why it matters, and what action a business should take next.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aniketraj82&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aniketraj82&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketraj82&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## What I Bring
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aniketraj82&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
+- Business-first analytics: KPI design, stakeholder reporting, and decision-focused insights.
+- Technical execution: SQL queries, Python analysis pipelines, data cleaning, statistical testing, and dashboard-ready outputs.
+- Portfolio depth: retention analysis, marketing ROI, pricing strategy, customer segmentation, and reconciliation automation.
+- Learning focus: advanced SQL optimization, predictive modeling, and scalable analytics workflows.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Core Tech Stack
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aniketraj82&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=aniketraj82&icon=0&color=0)](https://visitcount.itsvg.in)
+## Featured Analytics Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | Business Question | Tools | Output |
+|---|---|---|---|
+| [User Behavior & Retention Analysis](https://github.com/aniketraj82/User-Behavior-Retention-Analysis) | Where do users drop off after signup, and how can retention improve? | SQL, Python, Pandas, Power BI-ready CSVs | Cohort analysis, funnel analysis, churn summary, retention recommendations |
+| [Marketing Campaign ROI Analysis](https://github.com/aniketraj82/Marketing_Campaign_ROI_Analysis) | Which campaigns should receive more budget, and which should be stopped? | Python, Streamlit, ROI/CAC/ROAS analysis | Executive report, dashboard, budget reallocation plan |
+| [Pricing Strategy Analysis](https://github.com/aniketraj82/Pricing_Strategy_Analysis) | Which price changes can increase revenue without guessing? | Python, elasticity analysis, Streamlit | Optimal price recommendations, discount scenarios, bundle ideas |
+| [E-Commerce A/B Test Analysis](https://github.com/aniketraj82/E-Commerce-A-B-Test-Analysis-Write-up) | Does a redesigned checkout page improve conversion? | Python, statistics, confidence intervals | A/B test write-up with launch recommendation |
+| [Customer Segmentation & RFM Analysis](https://github.com/aniketraj82/Customer-Segmentation-RFM-Analysis) | Which customer groups should marketing target differently? | Python, RFM, K-means clustering | 5 customer segments and marketing action plan |
+| [Sales & Inventory Reconciliation Automation](https://github.com/aniketraj82/Sales-Inventory-Reconciliation-Automation) | How can daily reconciliation work be automated? | SQL, Python, SQLite | Exception reporting and automated reconciliation outputs |
+
+## Portfolio Snapshots
+
+| Retention Analysis | Marketing ROI |
+|---|---|
+| ![Cohort retention heatmap](https://raw.githubusercontent.com/aniketraj82/User-Behavior-Retention-Analysis/main/reports/figures/cohort_retention_heatmap.png) | ![Marketing ROI by channel](https://raw.githubusercontent.com/aniketraj82/Marketing_Campaign_ROI_Analysis/main/roi_by_channel.png) |
+
+| Pricing Strategy | Customer Segmentation |
+|---|---|
+| ![Pricing dashboard screenshot](https://raw.githubusercontent.com/aniketraj82/Pricing_Strategy_Analysis/main/dashboard_screenshot.png) | ![Customer segment distribution](https://raw.githubusercontent.com/aniketraj82/Customer-Segmentation-RFM-Analysis/main/segment_distribution.png) |
+
+## Analytics Skills I Practice
+
+- SQL: joins, aggregations, cohort queries, funnel logic, reconciliation checks.
+- Python: data cleaning, feature engineering, statistical testing, automation scripts.
+- BI and reporting: Power BI-ready datasets, dashboard specifications, KPI summaries.
+- Business analytics: CAC, ROAS, ROI, conversion rate, churn, retention, RFM, elasticity.
+- Communication: executive summaries, stakeholder recommendations, readable project documentation.
+
+## GitHub Stats
+
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketraj82&show_icons=true&theme=default&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketraj82&layout=compact&theme=default&hide_border=true)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamaniketraj)
+[![Email](https://img.shields.io/badge/Email-aniketraj2350%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketraj2350@gmail.com)
+
